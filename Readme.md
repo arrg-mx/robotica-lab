@@ -1,4 +1,4 @@
-# Temas Selectos de Robótica 
+# Laboratorio de la asignatura de Robótica 
 
 ## Contenido
 
